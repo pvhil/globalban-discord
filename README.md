@@ -1,3 +1,6 @@
+## Discontinued
+
+
 # globalban-discord
 A Discord Bot which tracks bans of users across all servers!
 
